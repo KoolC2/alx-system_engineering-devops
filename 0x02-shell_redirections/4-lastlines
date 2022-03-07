@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "ls -lt | tail /etc/passwd"
+echo "tail /etc/passwd"
